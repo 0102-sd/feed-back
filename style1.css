@@ -5,5 +5,8 @@ b{
 	p{
 		color:white;
         font-size: 30px;
-        background: green;
+        
+	}
+	body{
+		background: green;
 	}
